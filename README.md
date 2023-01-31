@@ -16,8 +16,9 @@ Hi there 👋, I'm Sardor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sardor-ergashaliyev-031018247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadjon safarov" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sardooo_r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadjon._.safarov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sardor-ergashaliyev-031018247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sardor Ergashaliyev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sardooo_r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sardor Ergashaliyev" height="30" width="40" /></a>
+ 
 
 </p>
 
