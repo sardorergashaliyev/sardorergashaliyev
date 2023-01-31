@@ -8,8 +8,6 @@ Hi there 👋, I'm Sardor
 
 • 💬 Ask me about Dart, Flutter, Python, C
 
-• 👨‍💻 All of my projects are available at https://github.com/sardorergashaliyev
-
 • 📝 I regularly write articles on https://t.me/ergashaliyev_blog
 
 • 📫 How to reach me http://myurls.co/sardooo_r
