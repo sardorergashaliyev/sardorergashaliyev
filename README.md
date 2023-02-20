@@ -1,6 +1,6 @@
 Hi there 👋, I'm Sardor
 
-• 🌱 I’m currently learning Flutter, Dart
+• 🌱 I’m currently learning Flutter
 
 • 👯 I’m looking to collaborate on Companies
 
