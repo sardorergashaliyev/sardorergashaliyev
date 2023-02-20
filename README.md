@@ -12,7 +12,7 @@ Hi there 👋, I'm Sardor
 
 • 📫 How to reach me http://myurls.co/sardooo_r
 
-• ⚡ Fun fact My birthday on 14.08.2005
+• ⚡ Fun fact My birthday on 14.08.2005(18 y.o.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
