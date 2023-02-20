@@ -1,4 +1,4 @@
-Hi there 👋, I'm Sardor
+Assalamu Aleykum, I'm Sardor
 
 • 🌱 I’m currently learning Flutter
 
