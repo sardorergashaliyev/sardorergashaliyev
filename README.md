@@ -6,7 +6,7 @@ Assalamu Aleykum, I'm Sardor
 
 • 🤝 I’m looking for help with Flutter
 
-• 💬 Ask me about Flutter(GitHub, Dio/Api, Cubit, FireBase), Dart, Python, C
+• 💬 Ask me about Flutter(GitHub, Dio/Api, Bloc/Cubit/Provider, FireBase), Dart, Python, C
 
 • 📝 I regularly write articles on https://t.me/ergashaliyev_blog
 
