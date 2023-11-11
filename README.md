@@ -1,8 +1,13 @@
-Assalamu Aleykum, I'm Sardor
+<div>
+  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
-• 🌱 I’m currently learning Flutter
+<h1 align="center">Assalamu aleykum 👋, I'm Sardor</h1>
+<h3 align="center">A passionate Flutter developer from Uzbekistan</h3>
 
-• 👯 I’m looking to collaborate on Companies
+- 🔭 I’m currently working on **MyGO**
+
+- 🌱 I’m currently learning **Flutter, Dart**
 
 • 🤝 I’m looking for help with Flutter
 
@@ -20,7 +25,7 @@ Assalamu Aleykum, I'm Sardor
 <a href="https://www.instagram.com/sardooo_r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sardor Ergashaliyev" height="30" width="40" /></a>
  
 
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sardorergashaliyev" alt="sardorergashaliyev" /></a> </p>
 
 
 
@@ -43,6 +48,4 @@ Assalamu Aleykum, I'm Sardor
   
   ![GitHub followers](https://img.shields.io/github/followers/bek-n?logo=GitHub&style=for-the-badge)
 
-  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sardorergashaliyev" alt="Sardor Ergashaliyev" /></a> </p>
 </details>
