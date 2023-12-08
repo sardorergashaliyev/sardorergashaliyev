@@ -13,7 +13,7 @@
 
 • 💬 Ask me about Flutter(GitHub, Dio/Api, Bloc/Cubit/Provider, FireBase), Dart, Python, C
 
-• 📝 I regularly write articles on https://t.me/ergashaliyev_blog
+• 📝 I regularly write articles on https://t.me/ergashaliyews
 
 • 📫 How to reach me http://myurls.co/sardooo_r
 
